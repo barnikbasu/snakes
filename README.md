@@ -2,7 +2,7 @@
 
 A sleek, mobile-responsive Snake game built with vanilla JavaScript, HTML5 Canvas, and CSS3. 
 
-## 🚀 [Live Demo](URL_OF_YOUR_GITHUB_PAGES_HERE)
+## 🚀 [Live Demo](https://barnikbasu.github.io/snakes/)
 
 ---
 
